@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="default_profile_picture">Default Profile Picture</string>
+    <string name="article_content_image">Article Content Image</string>
+    <string name="Sample_Text_Article_Content">Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used before final copy is available, but it may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design.</string>
+    <string name="Sample_Text_Article_Title">The Lorem ipsum text is derived from sections 1.10.32 and 1.10.33 of Cicero\'s De finibus bonorum et malorum.</string>
+    <string name="Sample_Text_Article_Url">https://en.wikipedia.org/wiki/Lorem_ipsum</string>
+
+    <string name="getLikesText">%.2fK Likes</string>
+    <string name="getCommentsText">%.2fK Comments</string>
+    <string name="getFullNameText">%s %s</string>
+    <string name="retry">Retry</string>
+    <string name="getErrorMessage">Unable to load due to some error!</string>
+</resources>
